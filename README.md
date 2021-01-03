@@ -15,7 +15,26 @@ include_once 'azurroheader.php';
                            <h3>...........................................</h>            
                         </div>
                         
+                        
                         <div class="zoomimg">
+                        <h3>August 2020 </h3>
+                        <img src="galery/august.jpg" alt="Azurro" width="100" height="100"style="margin-left:35px;"> 
+                        </div>
+                        <div class="zoomimg">
+                        <img src="galery/august1.jpg" alt="Azurro" width="100" height="100"style="margin-left:35px;">
+                        </div>
+                        <div class="zoomimg">
+                        <img src="galery/august2.jpg" alt="Azurro" width="100" height="100"style="margin-left:35px;">
+                        </div>
+                        <div class="zoomimg">
+                        <img src="galery/august3.jpg" alt="Azurro" width="100" height="100"style="margin-left:35px;">
+                        </div>
+                        <div class="zoomimg">
+                        <img src="galery/august4.jpg" alt="Azurro" width="100" height="100"style="margin-left:35px;">
+                        </div>
+                        
+                        <div class="zoomimg">
+                        <h3>January 2021 </h3>
                         <img src="galery/august.jpg" alt="Azurro" width="100" height="100"style="margin-left:35px;"> 
                         </div>
                         <div class="zoomimg">
